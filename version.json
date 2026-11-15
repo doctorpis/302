@@ -1,7 +1,8 @@
 {
-  "fetched_at": "2026-11-12T19:40:21.927698+00:00",
-  "articles": 7,
-  "source_posts": 11,
-  "source_images": 11,
-  "sha256": "058f8c17a62fc3879fe666c5d8c2e94de42445ee01b628e28fa4da49d5f4958f"
+  "edition": "ASYLUM HQ",
+  "version": 2,
+  "source_fetched_at": "2026-11-15T03:00:59.185349+00:00",
+  "lessons": 28,
+  "public_records": 47,
+  "sha256": "e0aaf4ef4ad4c244faeaf100106d556640dd944d0a3618357d9266512bb73f21"
 }
